@@ -1,3 +1,1 @@
-# hello-world
-
-int i;
+Hello World!
